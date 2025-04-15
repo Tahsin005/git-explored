@@ -7,4 +7,5 @@ function sayName () {
 
 function sayBye () {
     console.log('Bye!!');
+    console.log('Byeeeee!!');
 }
