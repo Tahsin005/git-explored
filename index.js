@@ -8,3 +8,7 @@ function sayName () {
 function sayBye () {
     console.log('Bye!!');
 }
+
+function fromDevelopmentBranch () {
+    console.log('Hello from devlopment branch');
+}
