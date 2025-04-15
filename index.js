@@ -1,5 +1,5 @@
 const age = 24;
-const name = 'John Snow';
+const name = 'John Snow New';
 
 function sayName () {
     console.log('My name is ' + name1);
