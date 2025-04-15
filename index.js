@@ -24,3 +24,9 @@ function featSlashFeatHypenCBranch () {
     console.log('Bye from featSlashFeatHypenCBranch branch!');
     console.log('Bolo from featSlashFeatHypenCBranch branch!');
 }
+
+function forGitStash () {
+    console.log('Function for git stash');
+}
+
+console.log('https://supersimpledev.github.io/references/git-github-reference.pdf');
