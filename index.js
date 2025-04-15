@@ -11,4 +11,5 @@ function sayBye () {
 
 function fromDevelopmentBranch () {
     console.log('Hello from devlopment branch');
+    console.log('Bye from development branch');
 }
