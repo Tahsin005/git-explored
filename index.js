@@ -1,6 +1,10 @@
 const age = 24;
-const name = 'John Snow';
+const name1 = 'John Snow';
 
 function sayName () {
-    console.log('My name is ' + name);
+    console.log('My name is ' + name1);
+}
+
+function sayBye () {
+    console.log('Bye!!');
 }
