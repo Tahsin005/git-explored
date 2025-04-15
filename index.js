@@ -18,3 +18,7 @@ function fromTestingBranch () {
     console.log('Hello from testing branch!');
     console.log('Bye from testing branch!');
 }
+
+function featSlashFeatHypenCBranch () {
+    console.log('Hello from featSlashFeatHypenCBranch branch!');
+}
